@@ -1,2 +1,2 @@
 # SimpleAdmin
-Simple Admin page made to update and delete users from the database. Up at kakashi.uphero.com
+Simple Admin page made to update and delete users from the database. Online [here](http://kakashi.uphero.com).
